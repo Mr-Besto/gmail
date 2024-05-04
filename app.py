@@ -1,5 +1,4 @@
 from flask import Flask
-import gunicorn
 from threading import Thread
 import requests
 from requests import post as pp
